@@ -1,0 +1,21 @@
+{
+	"FileVersion" : 3,
+	
+	"FriendlyName" : "PluginWardenTest",
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"CreatedBy" : "Epic Games",
+	"CreatedByURL" : "http://epicgames.com",
+	"EngineVersion" : "4.11.0",
+	"Description" : "A plug-in that tests the plug-in warden.",
+	"Category" : "Editor",
+	"EnabledByDefault" : true,
+	
+	"Modules" :
+	[
+		{
+			"Name" : "PluginWardenTest",
+			"Type" : "Editor"
+		}
+	]
+}
