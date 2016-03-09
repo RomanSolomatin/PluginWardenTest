@@ -51,7 +51,7 @@ TSharedRef<SDockTab> FPluginWardenTestModule::HandleSpawnSettingsTab(const FSpaw
 		LOCTEXT("PluginWardenTest", "Plugin Warden Test"),
 		TEXT("GET_ITEM_ID_FROM_MARKETPLACE_STAFF"),
 		TEXT("GET_OFFER_ID_FROM_MARKETPLACE_STAFF"),
-		[] () {
+		[&] () {
 			DockTab->SetContent(
 			SNew(SOverlay)
 
