@@ -16,7 +16,7 @@ You'll need to replace the,
 
 Both of which you'll get from the marketplace team when talking with them about getting your plugin on the store.
 
-NOTE: The Plug-in Warden will not, nor will it ever stop someone from pirating a plug-in, it could help convert users who accidentally violate the per-seat terms of the license though.
+NOTE: The Plug-in Warden will not or can stop someone from pirating a plug-in, it might help convert users who accidentally violate the per-seat terms of the license though.
 
 
 ## Supported Platforms
